@@ -15,6 +15,7 @@ const generateWalls = () => {
     }
   }
   return walls;
+  return balls;
 };
 
 // Minimax AI to place walls strategically
